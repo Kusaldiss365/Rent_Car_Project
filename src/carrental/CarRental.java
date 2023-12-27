@@ -7,10 +7,7 @@ package carrental;
 import carrental.newpackage.view.DashboardView;
 import carrental.newpackage.view.LoginView;
 
-/**
- *
- * @author eshan
- */
+
 public class CarRental {
 
     /**
